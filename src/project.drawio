@@ -1,0 +1,22 @@
+<mxfile host="65bd71144e">
+    <diagram id="U24sJaC-i08Na1TYOHjv" name="Page-1">
+        <mxGraphModel dx="576" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;React App&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="190" width="480" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="C" style="rounded=1;whiteSpace=wrap;html=1;fontColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="260" width="220" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="340" width="240" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="C" style="rounded=1;whiteSpace=wrap;html=1;fontColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="430" width="240" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
